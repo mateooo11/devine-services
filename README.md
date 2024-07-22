@@ -1,7 +1,7 @@
 ## Usage:
 Clone repository:
 
-`git clone https://cdm-project.com/stabbedbybrick/devine-services.git`
+`git clone https://cdm-project.com/tpd94/devine-services.git`
 
 Add folder to `devine.yaml`:
 
